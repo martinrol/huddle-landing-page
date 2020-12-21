@@ -1,0 +1,20 @@
+:root {
+    --violet: hsl(257, 40%, 49%);
+    --soft-Magenta: hsl(300, 69%, 71%);
+    --white: #fafafa;
+    --main-typeface: 'Poppins', sans-serif;
+    --secondary-typeface: 'Open Sans', sans-serif;
+    --made-by: rgb(255, 152, 0);
+}
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+html {
+    font-size: 62.5%;
+}
+
+/* ------------------------------------------------ */
