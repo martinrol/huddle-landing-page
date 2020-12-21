@@ -1,6 +1,7 @@
 .container {
     background-image: url(../images/bg-desktop.svg);
     background-position: left;
+    background-size: cover;
 }
 
 .container__header figure {
