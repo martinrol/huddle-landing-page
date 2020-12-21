@@ -47,12 +47,13 @@ html {
 }
 
 .container__header img {
-    width: 90%;
-    height: 90%;
+    width: 100%;
+    height: 100%;
 }
 
 .container__main {
     width: 90%;
+    max-width: 1440px;
     height: 100%;
     margin: 0 auto;
 }
